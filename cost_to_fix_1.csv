@@ -1,0 +1,34 @@
+﻿,avg cost of surgery,average age,rehab time,common surgery,revision
+Massachusetts,52815,44,7,knee,0.21958257
+Rhode Island,53869,56,7,knee,0.375104037
+Connecticut,41611,67,4,hip,
+New Hampshire,35669,37,,knee,0.415789983
+Maryland,43376,64,7,,0.628458033
+Delaware,43608,33,8,hip,0.889568486
+New Jersey,52806,35,4,hip,0.762801737
+New York,,52,4,knee,0.206641595
+Virginia,46417,50,7,hip,0.855595959
+South Carolina,52476,50,4,knee,0.417830211
+Georgia,42465,31,4,knee,
+Florida,49750,42,5,knee,0.708457136
+Illinois,51339,70,,knee,0.574569806
+Indiana,40356,61,5,knee,0.084531094
+Michigan,47782,31,6,hip,0.054139769
+Ohio,,49,6,hip,0.787661352
+Iowa,38076,52,7,knee,0.098189016
+Kansas,32670,51,7,hip,0.41125661
+Missouri,42363,70,8,hip,0.967563547
+Nebraska,33616,62,5,hip,0.873515724
+Arkansas,49231,47,5,hip,0.623763637
+Louisiana,47587,55,8,hip,
+Texas,38928,59,7,hip,0.788124524
+Arizona ,39330,62,8,hip,0.539542842
+Colorado,41751,51,4,knee,0.686012038
+Montana,40838,37,4,knee,0.232826265
+Utah,45775,53,8,hip,0.968377724
+Wyoming,38049,49,4,knee,0.933312418
+Alaska,38912,39,6,hip,0.346184995
+California,45012,45,6,hip,0.950082867
+Hawaii,33010,45,7,hip,0.029350289
+Washington,,66,7,,0.080671258
+Oregon,45966,70,4,knee,0.48783366
